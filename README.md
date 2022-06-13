@@ -17,7 +17,7 @@
  
  Watch your objects Randomize!
  
- ###Additional Info
+ ###Additional Info###
  
  You can add it to individual buttons that randomize single attributes of a larger game object, or create 1 button that randomizes multiple attributes in a larger array of multiple objects
  
